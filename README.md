@@ -1,5 +1,5 @@
 # Bitcoin Price Prediction using Twitter Sentiment Analysis
-## Team Members:\n",
+## Team Members:
      Aaron Paul              - 181112287
      Pradhi Anil Kumar Das   - 181112252
      Aditya Kumar            - 181112251
