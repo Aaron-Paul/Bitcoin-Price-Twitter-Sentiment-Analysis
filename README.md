@@ -1,10 +1,4 @@
 # Bitcoin Price Prediction using Twitter Sentiment Analysis
-## Team Members:
-*     Aaron Paul              - 181112287
-*     Pradhi Anil Kumar Das   - 181112252
-*     Aditya Kumar            - 181112251
-*     Pushpak Manwani         - 181112286
-
 ## Abstract:
 Predicting stock market movements is a well-known problem of interest. 
 Now-a-days social media is perfectly representing the public sentiment and opinion about current events.
